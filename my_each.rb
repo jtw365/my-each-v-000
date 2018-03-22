@@ -5,4 +5,5 @@ def my_each(words) # put argument(s) here
   while i < words.length
     i = i + 1
   end
+  array
 end
